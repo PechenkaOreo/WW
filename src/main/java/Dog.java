@@ -31,5 +31,8 @@ private int height;
     public Dog(){
         System.out.println("Creating object of the class Dog.");
     }
+
+    public String getName() {
+    }
 }
 

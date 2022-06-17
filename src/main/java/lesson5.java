@@ -23,10 +23,7 @@ public class lesson5 {
 //        studentage++;
 //      Eyes eyes = new Eyes ("blue",22,true,1 );
 //      Cat cat = new Cat();
-        Dog dog = new Dog("Riko", 11, "black", 55);
-        dog.print();
-        Dog dog2 = new Dog();
-        dog2.print();
+
 
     }
 }
